@@ -26,7 +26,7 @@ const escapeRegExp = (string) => {
 
 app.use(morgan('dev'));
 
-	const MongoDBURI = "mongodb+srv://root:B5xcEJa77ADKDDVl@cluster0.mgnigbt.mongodb.net/?retryWrites=true&w=majority"
+	const MongoDBURI = "mongodb+srv://root:5xcEJa77ADKDDVl@cluster0.mgnigbt.mongodb.net/?retryWrites=true&w=majority"
 
 //	const MongoDBURI = process.env.MONGO_URI || 'mongodb://localhost/btest';
 
